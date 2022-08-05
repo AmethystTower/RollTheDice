@@ -1,0 +1,13 @@
+C:\Users\Alex.Kunz\Documents\Visual Studio 2019\Projects\RollTheDice\RollTheDice\bin\Release\netcoreapp3.1\RollTheDice.exe
+C:\Users\Alex.Kunz\Documents\Visual Studio 2019\Projects\RollTheDice\RollTheDice\bin\Release\netcoreapp3.1\RollTheDice.deps.json
+C:\Users\Alex.Kunz\Documents\Visual Studio 2019\Projects\RollTheDice\RollTheDice\bin\Release\netcoreapp3.1\RollTheDice.runtimeconfig.json
+C:\Users\Alex.Kunz\Documents\Visual Studio 2019\Projects\RollTheDice\RollTheDice\bin\Release\netcoreapp3.1\RollTheDice.runtimeconfig.dev.json
+C:\Users\Alex.Kunz\Documents\Visual Studio 2019\Projects\RollTheDice\RollTheDice\bin\Release\netcoreapp3.1\RollTheDice.dll
+C:\Users\Alex.Kunz\Documents\Visual Studio 2019\Projects\RollTheDice\RollTheDice\bin\Release\netcoreapp3.1\RollTheDice.pdb
+C:\Users\Alex.Kunz\Documents\Visual Studio 2019\Projects\RollTheDice\RollTheDice\obj\Release\netcoreapp3.1\RollTheDice.csprojAssemblyReference.cache
+C:\Users\Alex.Kunz\Documents\Visual Studio 2019\Projects\RollTheDice\RollTheDice\obj\Release\netcoreapp3.1\RollTheDice.AssemblyInfoInputs.cache
+C:\Users\Alex.Kunz\Documents\Visual Studio 2019\Projects\RollTheDice\RollTheDice\obj\Release\netcoreapp3.1\RollTheDice.AssemblyInfo.cs
+C:\Users\Alex.Kunz\Documents\Visual Studio 2019\Projects\RollTheDice\RollTheDice\obj\Release\netcoreapp3.1\RollTheDice.csproj.CoreCompileInputs.cache
+C:\Users\Alex.Kunz\Documents\Visual Studio 2019\Projects\RollTheDice\RollTheDice\obj\Release\netcoreapp3.1\RollTheDice.dll
+C:\Users\Alex.Kunz\Documents\Visual Studio 2019\Projects\RollTheDice\RollTheDice\obj\Release\netcoreapp3.1\RollTheDice.pdb
+C:\Users\Alex.Kunz\Documents\Visual Studio 2019\Projects\RollTheDice\RollTheDice\obj\Release\netcoreapp3.1\RollTheDice.genruntimeconfig.cache
